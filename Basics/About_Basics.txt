@@ -1,0 +1,14 @@
+Python is a dynamic and strongly typed programming language. It employs both duck typing and gradual typing, via type hints. Python puts a strong emphasis on code readability and (similar to Haskell) uses significant indentation to denote function, method, and class definitions.
+
+Python was created by Guido van Rossum and first released in 1991.
+
+Imperative, declarative (e.g., functional), and object-oriented programming styles are all supported, but internally everything in Python is an object.
+
+We'll dig more into what all of that means as we continue through the Python track concepts.
+
+This first concept (basics) introduces 4 major Python language features:
+
+    1.Name Assignment (variables and constants),
+    2.Functions (the def keyword and the return keyword),
+    3.Comments, and
+    4.Docstrings.
